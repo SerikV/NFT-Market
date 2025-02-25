@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Cyberpunk Cocomo",
+    "price": "490ETH",
+    "imageSrc": "/assets/cyberpunk-cocomo.png",
+    "artist": "Artist Name"
+  },
+  {
+    "title": "Charge, Qi tiao yu",
+    "price": "490ETH",
+    "imageSrc": "/assets/charge.png",
+    "artist": "Artist Name"
+  },
+  {
+    "title": "Surgeon, Josh Rife",
+    "price": "490ETH",
+    "imageSrc": "/assets/surgeon.png",
+    "artist": "Artist Name"
+  }
+]

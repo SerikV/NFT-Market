@@ -1,0 +1,27 @@
+[ 
+  {
+  "mainImage": "/assets/osvaldo.png",
+  "owner": "Oswaldo Percy",
+  "avatar": "sebastian-ava.png"
+  },
+  {
+  "mainImage": "/assets/ranson.png",
+  "owner": "Ranson Sqiure",
+  "avatar": "/assets/ranson-ava.png"
+  },
+  {
+  "mainImage": "/assets/sebastian.png",
+  "owner": "Sebastian waltan",
+  "avatar": "/assets/sebastian-ava.png"
+  },
+  {
+  "mainImage": "/assets/abraham.png",
+  "owner": "Abraham Zack",
+  "avatar": "/assets/abraham-ava.png"
+  },
+  {
+  "mainImage": "/assets/cristio.png",
+  "owner": "Owner's Name",
+  "avatar": "/assets/cristio-ava.png"
+  }
+]
