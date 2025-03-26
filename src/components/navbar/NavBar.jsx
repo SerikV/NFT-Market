@@ -103,7 +103,7 @@ return (
 
       <div className="right-side ml-auto">
         <a
-          href="https://www.upwork.com/freelancers/~011cfa5d36905a298d"
+          href="#"
           className=" mr-auto bg-orange-400 text-[1rem] text-white px-8 py-2 rounded-lg font-bold hover:text-yellow-400 md:m-5 md:block md:mx-auto md:w-fit lg:px-3"
         >
           Contact
