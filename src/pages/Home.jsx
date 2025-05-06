@@ -6,6 +6,7 @@ import Create from "../components/createsection/Create";
 import Popular from  '../components/popularsection/Popular';
 import Subscription from "../components/subscribe/Subscribe";
 import Footer from "../components/footer/Footer";
+import AboutSection from "../components/aboutsection/AboutSection";
 
 
 const Home = () => {
@@ -23,6 +24,7 @@ const Home = () => {
     <div style={styles}>
       <NavBar darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
       <Hero darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
+      <AboutSection darkMode={darkMode} />
       <BestOfWeek darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
       <Create darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
       <Popular darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
